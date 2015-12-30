@@ -1,0 +1,533 @@
+# depslib dependency file v1.0
+1442887227 source:d:\ycc\programming\cpp\shape\shape0915\main.cpp
+	"cppunitlite/TestHarness.h"
+	"Circle.h"
+	"Square.h"
+	<vector>
+
+1406752454 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1409082726 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1406752452 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\simplestring.h
+
+1406752454 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\testresult.h
+
+1406752452 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\failure.h
+	"SimpleString.h"
+
+1406752454 d:\ycc\programming\cpp\shape\shape0915\cppunitlite\testregistry.h
+
+1442887051 d:\ycc\programming\cpp\shape\shape0915\circle.h
+	<vector>
+	"Shape.h"
+
+1442887042 source:d:\ycc\programming\cpp\shape\shape0915\circle.cpp
+	"Circle.h"
+
+1442888575 d:\ycc\programming\cpp\shape\shape0915\shape.h
+
+1442887097 d:\ycc\programming\cpp\shape\shape0915\square.h
+	"Shape.h"
+
+1442886952 source:d:\ycc\programming\cpp\shape\shape0915\square.cpp
+	"Square.h"
+
+1443098317 source:e:\data\posd\shape0922-2015\shape\shape0915\circle.cpp
+	"Circle.h"
+
+1443003964 e:\data\posd\shape0922-2015\shape\shape0915\circle.h
+	"Shape.h"
+
+1443089237 e:\data\posd\shape0922-2015\shape\shape0915\shape.h
+	<vector>
+	"BoundingBox.h"
+
+1443098517 source:e:\data\posd\shape0922-2015\shape\shape0915\main.cpp
+	"cppunitlite/TestHarness.h"
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"CompositeGraphics.cpp"
+	"SimpleGraphics.h"
+	"SimpleGraphics.cpp"
+	<vector>
+	<string>
+	<iostream>
+
+1021612118 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\simplestring.h
+
+1021612138 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\testresult.h
+
+1021612138 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 e:\data\posd\shape0922-2015\shape\shape0915\cppunitlite\testregistry.h
+
+1443002506 e:\data\posd\shape0922-2015\shape\shape0915\square.h
+	"Shape.h"
+
+1443088418 source:e:\data\posd\shape0922-2015\shape\shape0915\square.cpp
+	"Square.h"
+
+1443011728 e:\data\posd\shape0922-2015\shape\shape0915\rectangle.h
+	"Shape.h"
+
+1443088412 source:e:\data\posd\shape0922-2015\shape\shape0915\rectangle.cpp
+	"Rectangle.h"
+	"BoundingBox.cpp"
+
+1443002390 source:e:\data\posd\shape0922-2015\shape\shape0915\shape.cpp
+	"Shape.h"
+
+1443003832 e:\data\posd\shape0922-2015\shape\shape0915\boundingbox.h
+
+1443004257 e:\data\posd\shape0922-2015\shape\shape0915\boundingbox.cpp
+	"BoundingBox.h"
+
+1443096332 e:\data\posd\shape0922-2015\shape\shape0915\graphics.h
+	"BoundingBox.h"
+
+1443097537 source:e:\data\posd\shape0922-2015\shape\shape0915\graphics.cpp
+	"Graphics.h"
+
+1443099745 e:\data\posd\shape0922-2015\shape\shape0915\compositegraphics.h
+	"Graphics.h"
+
+1443100323 e:\data\posd\shape0922-2015\shape\shape0915\compositegraphics.cpp
+	"CompositeGraphics.h"
+
+1443093688 e:\data\posd\shape0922-2015\shape\shape0915\simplegraphics.h
+	"Graphics.h"
+	<vector>
+	<string>
+
+1443093773 e:\data\posd\shape0922-2015\shape\shape0915\simplegraphics.cpp
+	"SimpleGraphics.h"
+
+1444789410 source:e:\data\posd\104598029_hw2\shape0915\circle.cpp
+	"Circle.h"
+	<sstream>
+
+1443003964 e:\data\posd\104598029_hw2\shape0915\circle.h
+	"Shape.h"
+
+1444789410 e:\data\posd\104598029_hw2\shape0915\shape.h
+	<vector>
+	"BoundingBox.h"
+	<string>
+
+1443003832 e:\data\posd\104598029_hw2\shape0915\boundingbox.h
+
+1444791538 source:e:\data\posd\104598029_hw2\shape0915\graphics.cpp
+	"Graphics.h"
+	"GraphicsVisitor.h"
+	<string>
+
+1444964926 e:\data\posd\104598029_hw2\shape0915\graphics.h
+	"BoundingBox.h"
+	<string>
+
+1444841974 e:\data\posd\104598029_hw2\shape0915\graphicsvisitor.h
+	"SimpleGraphics.h"
+	"CompositeGraphics.h"
+
+1444842049 e:\data\posd\104598029_hw2\shape0915\areavisitor.h
+	"GraphicsVisitor.h"
+
+1444758233 e:\data\posd\104598029_hw2\shape0915\compositegraphics.h
+	"Graphics.h"
+	<vector>
+
+1444964034 e:\data\posd\104598029_hw2\shape0915\simplegraphics.h
+	"Graphics.h"
+	"Shape.h"
+	<vector>
+	<string>
+
+1444841598 source:e:\data\posd\104598029_hw2\shape0915\main.cpp
+	"cppunitlite/TestHarness.h"
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"CompositeGraphics.cpp"
+	"SimpleGraphics.h"
+	"SimpleGraphics.cpp"
+	"GraphicsVisitor.h"
+	"AreaVisitor.h"
+	"AreaVisitor.cpp"
+	"DescriptionVisitor.h"
+	"DescriptionVisitor.cpp"
+	<vector>
+	<string>
+	<iostream>
+
+1021612118 e:\data\posd\104598029_hw2\shape0915\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 e:\data\posd\104598029_hw2\shape0915\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 e:\data\posd\104598029_hw2\shape0915\cppunitlite\simplestring.h
+
+1021612138 e:\data\posd\104598029_hw2\shape0915\cppunitlite\testresult.h
+
+1021612138 e:\data\posd\104598029_hw2\shape0915\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 e:\data\posd\104598029_hw2\shape0915\cppunitlite\testregistry.h
+
+1444789145 e:\data\posd\104598029_hw2\shape0915\square.h
+	"Shape.h"
+
+1443011728 e:\data\posd\104598029_hw2\shape0915\rectangle.h
+	"Shape.h"
+
+1444841795 e:\data\posd\104598029_hw2\shape0915\compositegraphics.cpp
+	"CompositeGraphics.h"
+	<algorithm>
+	"GraphicsVisitor.h"
+	<sstream>
+	<iostream>
+
+1444761490 e:\data\posd\104598029_hw2\shape0915\simplegraphics.cpp
+	"SimpleGraphics.h"
+	"GraphicsVisitor.h"
+
+1444789410 source:e:\data\posd\104598029_hw2\shape0915\rectangle.cpp
+	"Rectangle.h"
+	"BoundingBox.cpp"
+	<sstream>
+
+1443004257 e:\data\posd\104598029_hw2\shape0915\boundingbox.cpp
+	"BoundingBox.h"
+
+1444789410 source:e:\data\posd\104598029_hw2\shape0915\shape.cpp
+	"Shape.h"
+
+1444789410 source:e:\data\posd\104598029_hw2\shape0915\square.cpp
+	"Square.h"
+	<sstream>
+
+1444842049 e:\data\posd\104598029_hw2\shape0915\descriptionvisitor.h
+	"GraphicsVisitor.h"
+
+1444842049 e:\data\posd\104598029_hw2\shape0915\areavisitor.cpp
+	"AreaVisitor.h"
+
+1444759213 e:\data\posd\104598029_hw2\shape0915\shape.cpp
+	"Shape.h"
+
+1444841795 e:\data\posd\104598029_hw2\shape0915\descriptionvisitor.cpp
+	"DescriptionVisitor.h"
+	<iostream>
+
+1446101797 source:e:\data\posd\104598029_hw3\shape0915\circle.cpp
+	"Circle.h"
+	<sstream>
+
+1446190557 e:\data\posd\104598029_hw3\shape0915\circle.h
+	"Shape.h"
+
+1446101797 e:\data\posd\104598029_hw3\shape0915\shape.h
+	<vector>
+	"BoundingBox.h"
+	<string>
+
+1443003832 e:\data\posd\104598029_hw3\shape0915\boundingbox.h
+
+1446039519 source:e:\data\posd\104598029_hw3\shape0915\graphics.cpp
+	"Graphics.h"
+	"GraphicsVisitor.h"
+	<string>
+
+1446102072 e:\data\posd\104598029_hw3\shape0915\graphics.h
+	"BoundingBox.h"
+	<string>
+
+1446121197 e:\data\posd\104598029_hw3\shape0915\graphicsvisitor.h
+	"SimpleGraphics.h"
+	"CompositeGraphics.h"
+
+1446190115 e:\data\posd\104598029_hw3\shape0915\simplegraphics.h
+	"Graphics.h"
+	"Shape.h"
+	<vector>
+	<string>
+
+1446101001 e:\data\posd\104598029_hw3\shape0915\compositegraphics.h
+	"Graphics.h"
+	<vector>
+
+1446115078 source:e:\data\posd\104598029_hw3\shape0915\main.cpp
+	"cppunitlite/TestHarness.h"
+	"utHW3.h"
+
+1021612118 e:\data\posd\104598029_hw3\shape0915\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 e:\data\posd\104598029_hw3\shape0915\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 e:\data\posd\104598029_hw3\shape0915\cppunitlite\simplestring.h
+
+1021612138 e:\data\posd\104598029_hw3\shape0915\cppunitlite\testresult.h
+
+1021612138 e:\data\posd\104598029_hw3\shape0915\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 e:\data\posd\104598029_hw3\shape0915\cppunitlite\testregistry.h
+
+1446101797 e:\data\posd\104598029_hw3\shape0915\square.h
+	"Shape.h"
+
+1446101797 e:\data\posd\104598029_hw3\shape0915\rectangle.h
+	"Shape.h"
+
+1446101091 e:\data\posd\104598029_hw3\shape0915\compositegraphics.cpp
+	"CompositeGraphics.h"
+	<algorithm>
+	"GraphicsVisitor.h"
+	<sstream>
+	<iostream>
+
+1446190115 e:\data\posd\104598029_hw3\shape0915\simplegraphics.cpp
+	"SimpleGraphics.h"
+	"GraphicsVisitor.h"
+
+1446121090 e:\data\posd\104598029_hw3\shape0915\areavisitor.h
+	"GraphicsVisitor.h"
+
+1444842049 e:\data\posd\104598029_hw3\shape0915\areavisitor.cpp
+	"AreaVisitor.h"
+
+1446121180 e:\data\posd\104598029_hw3\shape0915\descriptionvisitor.h
+	"GraphicsVisitor.h"
+
+1446121180 e:\data\posd\104598029_hw3\shape0915\descriptionvisitor.cpp
+	"DescriptionVisitor.h"
+	<iostream>
+
+1446101797 source:e:\data\posd\104598029_hw3\shape0915\rectangle.cpp
+	"Rectangle.h"
+	"BoundingBox.cpp"
+	<sstream>
+
+1443004257 e:\data\posd\104598029_hw3\shape0915\boundingbox.cpp
+	"BoundingBox.h"
+
+1446102457 source:e:\data\posd\104598029_hw3\shape0915\shape.cpp
+	"Shape.h"
+
+1446101797 source:e:\data\posd\104598029_hw3\shape0915\square.cpp
+	"Square.h"
+	<sstream>
+
+1446121066 e:\data\posd\104598029_hw3\shape0915\graphicsfactory.h
+	<string>
+	<stack>
+	<fstream>
+	<sstream>
+	<iostream>
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"SimpleGraphics.h"
+
+1446121072 e:\data\posd\104598029_hw3\shape0915\graphicsfactory.cpp
+	"GraphicsFactory.h"
+
+1446122370 e:\data\posd\104598029_hw3\shape0915\uthw3.h
+	"cppunitlite/TestHarness.h"
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"CompositeGraphics.cpp"
+	"SimpleGraphics.h"
+	"SimpleGraphics.cpp"
+	"GraphicsVisitor.h"
+	"AreaVisitor.h"
+	"DescriptionVisitor.h"
+	"DescriptionVisitor.cpp"
+	"GraphicsFactory.h"
+	"GraphicsFactory.cpp"
+	<vector>
+	<string>
+	<iostream>
+
+1446101797 source:e:\data\posd\104598029_hw4\shape0915\circle.cpp
+	"Circle.h"
+	<sstream>
+
+1446190557 e:\data\posd\104598029_hw4\shape0915\circle.h
+	"Shape.h"
+
+1446101797 e:\data\posd\104598029_hw4\shape0915\shape.h
+	<vector>
+	"BoundingBox.h"
+	<string>
+
+1443003832 e:\data\posd\104598029_hw4\shape0915\boundingbox.h
+
+1446039519 source:e:\data\posd\104598029_hw4\shape0915\graphics.cpp
+	"Graphics.h"
+	"GraphicsVisitor.h"
+	<string>
+
+1446102072 e:\data\posd\104598029_hw4\shape0915\graphics.h
+	"BoundingBox.h"
+	<string>
+
+1446121197 e:\data\posd\104598029_hw4\shape0915\graphicsvisitor.h
+	"SimpleGraphics.h"
+	"CompositeGraphics.h"
+
+1446190115 e:\data\posd\104598029_hw4\shape0915\simplegraphics.h
+	"Graphics.h"
+	"Shape.h"
+	<vector>
+	<string>
+
+1446101001 e:\data\posd\104598029_hw4\shape0915\compositegraphics.h
+	"Graphics.h"
+	<vector>
+
+1446115078 source:e:\data\posd\104598029_hw4\shape0915\main.cpp
+	"cppunitlite/TestHarness.h"
+	"utHW3.h"
+
+1021612118 e:\data\posd\104598029_hw4\shape0915\cppunitlite\testharness.h
+	"Test.h"
+	"TestResult.h"
+	"Failure.h"
+	"TestRegistry.h"
+
+1034763710 e:\data\posd\104598029_hw4\shape0915\cppunitlite\test.h
+	<cmath>
+	"SimpleString.h"
+
+1034765034 e:\data\posd\104598029_hw4\shape0915\cppunitlite\simplestring.h
+
+1021612138 e:\data\posd\104598029_hw4\shape0915\cppunitlite\testresult.h
+
+1021612138 e:\data\posd\104598029_hw4\shape0915\cppunitlite\failure.h
+	"SimpleString.h"
+
+1021612118 e:\data\posd\104598029_hw4\shape0915\cppunitlite\testregistry.h
+
+1446122370 e:\data\posd\104598029_hw4\shape0915\uthw3.h
+	"cppunitlite/TestHarness.h"
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"CompositeGraphics.cpp"
+	"SimpleGraphics.h"
+	"SimpleGraphics.cpp"
+	"GraphicsVisitor.h"
+	"AreaVisitor.h"
+	"DescriptionVisitor.h"
+	"DescriptionVisitor.cpp"
+	"GraphicsFactory.h"
+	"GraphicsFactory.cpp"
+	<vector>
+	<string>
+	<iostream>
+
+1446101797 e:\data\posd\104598029_hw4\shape0915\square.h
+	"Shape.h"
+
+1446101797 e:\data\posd\104598029_hw4\shape0915\rectangle.h
+	"Shape.h"
+
+1446101091 e:\data\posd\104598029_hw4\shape0915\compositegraphics.cpp
+	"CompositeGraphics.h"
+	<algorithm>
+	"GraphicsVisitor.h"
+	<sstream>
+	<iostream>
+
+1446190115 e:\data\posd\104598029_hw4\shape0915\simplegraphics.cpp
+	"SimpleGraphics.h"
+	"GraphicsVisitor.h"
+
+1446121090 e:\data\posd\104598029_hw4\shape0915\areavisitor.h
+	"GraphicsVisitor.h"
+
+1446121180 e:\data\posd\104598029_hw4\shape0915\descriptionvisitor.h
+	"GraphicsVisitor.h"
+
+1446121180 e:\data\posd\104598029_hw4\shape0915\descriptionvisitor.cpp
+	"DescriptionVisitor.h"
+	<iostream>
+
+1446121066 e:\data\posd\104598029_hw4\shape0915\graphicsfactory.h
+	<string>
+	<stack>
+	<fstream>
+	<sstream>
+	<iostream>
+	"Graphics.h"
+	"Circle.h"
+	"Shape.h"
+	"Square.h"
+	"Rectangle.h"
+	"CompositeGraphics.h"
+	"SimpleGraphics.h"
+
+1446121072 e:\data\posd\104598029_hw4\shape0915\graphicsfactory.cpp
+	"GraphicsFactory.h"
+
+1446101797 source:e:\data\posd\104598029_hw4\shape0915\rectangle.cpp
+	"Rectangle.h"
+	"BoundingBox.cpp"
+	<sstream>
+
+1443004257 e:\data\posd\104598029_hw4\shape0915\boundingbox.cpp
+	"BoundingBox.h"
+
+1446102457 source:e:\data\posd\104598029_hw4\shape0915\shape.cpp
+	"Shape.h"
+
+1446101797 source:e:\data\posd\104598029_hw4\shape0915\square.cpp
+	"Square.h"
+	<sstream>
+

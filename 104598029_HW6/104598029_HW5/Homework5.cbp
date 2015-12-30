@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Homework5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Homework#4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Homework#4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/ActiveQt" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtCLucene" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtConcurrent" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtCore" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtDeclarative" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtDesigner" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtDesignerComponents" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtGui" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtHelp" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtMultimedia" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtMultimediaQuick_p" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtMultimediaWidgets" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtNetwork" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtOpenGL" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtOpenGLExtensions" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtPlatformSupport" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtPrintSupport" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtQml" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtQuick" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtQuickParticles" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtQuickTest" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtScript" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtScriptTools" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtSensors" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtSerialPort" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtSql" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtSvg" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtTest" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtUiTools" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtV8" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtWebKit" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtWebKitWidgets" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtWidgets" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtXml" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtXmlPatterns" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/include/QtZlib" />
+		</Compiler>
+		<Linker>
+			<Add library="libQt5Core" />
+			<Add library="libQt5Gui" />
+			<Add library="libQt5Widgets" />
+			<Add library="cppunitlite\cppunitlite.a" />
+			<Add directory="C:/Qt/Qt5.5.0/5.5/mingw492_32/lib" />
+		</Linker>
+		<Unit filename="AddCommand.cpp" />
+		<Unit filename="Addcommand.h" />
+		<Unit filename="AreaVisitor.cpp" />
+		<Unit filename="AreaVisitor.h" />
+		<Unit filename="Circle.cpp" />
+		<Unit filename="Circle.h" />
+		<Unit filename="Command.cpp" />
+		<Unit filename="Command.h" />
+		<Unit filename="CommandManager.cpp" />
+		<Unit filename="CommandManager.h" />
+		<Unit filename="CompositeGraphics.cpp" />
+		<Unit filename="CompositeGraphics.h" />
+		<Unit filename="DescriptionVisitor.cpp" />
+		<Unit filename="DescriptionVisitor.h" />
+		<Unit filename="Graphics.cpp" />
+		<Unit filename="Graphics.h" />
+		<Unit filename="GraphicsFactory.cpp" />
+		<Unit filename="GraphicsFactory.h" />
+		<Unit filename="GraphicsGroupItem.cpp" />
+		<Unit filename="GraphicsGroupItem.h" />
+		<Unit filename="GraphicsItem.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="GraphicsItem.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="GraphicsScene.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="GraphicsScene.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="GraphicsVisitor.h" />
+		<Unit filename="Model.cpp" />
+		<Unit filename="Model.h" />
+		<Unit filename="MyQObject.cpp" />
+		<Unit filename="MyQObject.h" />
+		<Unit filename="QTVisitor.cpp" />
+		<Unit filename="QTVisitor.h" />
+		<Unit filename="Rectangle.cpp" />
+		<Unit filename="Rectangle.h" />
+		<Unit filename="Shape.h" />
+		<Unit filename="SimpleGraphics.cpp" />
+		<Unit filename="SimpleGraphics.h" />
+		<Unit filename="Square.cpp" />
+		<Unit filename="Square.h" />
+		<Unit filename="Visitor.h" />
+		<Unit filename="cir1.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="cppunitlite/Failure.h" />
+		<Unit filename="cppunitlite/SimpleString.h" />
+		<Unit filename="cppunitlite/Test.h" />
+		<Unit filename="cppunitlite/TestHarness.h" />
+		<Unit filename="cppunitlite/TestRegistry.h" />
+		<Unit filename="cppunitlite/TestResult.h" />
+		<Unit filename="f1.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="gui.cpp" />
+		<Unit filename="gui.h" />
+		<Unit filename="images/circle.png" />
+		<Unit filename="images/group.png" />
+		<Unit filename="images/open.png" />
+		<Unit filename="images/rectangle.png" />
+		<Unit filename="images/redo.png" />
+		<Unit filename="images/save.png" />
+		<Unit filename="images/square.png" />
+		<Unit filename="images/undo.png" />
+		<Unit filename="images/ungroup.png" />
+		<Unit filename="main.cpp" />
+		<Unit filename="notes.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="rec1.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="sh1.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="sq1.txt">
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="utTryQt.h" />
+		<Unit filename="utVisitor.h" />
+		<Unit filename="util.cpp" />
+		<Unit filename="util.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
